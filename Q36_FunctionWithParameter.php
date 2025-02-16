@@ -2,7 +2,7 @@
 	function greet($name){
 		return "Hello $name!";
 	}
-	$r = greet("Deepanshu!");
+	$r = greet("shadan!");
 	echo "$r <br>";
 	echo "made by Mohd shadan 151!";
 ?>
